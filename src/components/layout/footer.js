@@ -97,9 +97,9 @@ const Footer = () => (
                             <Text weight="bold">Sdn Bhd (1336703-K)</Text>
                         </CompanyInfo>
                     </Company>
-                    <Text lh="2">C-12-01, iTech Tower, Jalan Impact,</Text>
+                    <Text lh="2">3500, Jalan Teknokrat 3</Text>
                     <Text lh="2">
-                        Cyber 6, 63000 Cyberjaya, Selangor Malaysia
+                        63000 Cyberjaya, Selangor Malaysia
                     </Text>
                 </Col>
                 <Col>
